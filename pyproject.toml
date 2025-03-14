@@ -15,3 +15,6 @@ dependencies = [
 include = [
   "server_code"
 ]
+
+[tool.setuptools.package-data]
+"server_code" = ["py.typed"]
