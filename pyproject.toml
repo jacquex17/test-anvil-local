@@ -4,7 +4,6 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "test_anvil_local"
-version = "0.1.0"
 dependencies = [
     "anvil-app-server"
 ]
