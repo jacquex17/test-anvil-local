@@ -1,4 +1,8 @@
 allow_embedding: false
+dependencies:
+- dep_id: dep_mf90uovqky8f6
+  resolution_hints: {app_id: PE7VPZRY5G6HNAWL, name: Cyber White Label, package_name: Cyber_White_Label}
+  version: {branch: master}
 name: Custom HTML 18
 package_name: Custom_HTML_18
 runtime_options:
