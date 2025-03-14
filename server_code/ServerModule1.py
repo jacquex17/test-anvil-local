@@ -1,4 +1,4 @@
 import anvil.server
 
-def some_function():
+def some_function() -> str:
     return "Hello"
